@@ -32,13 +32,7 @@ A lightweight alternative to VLC, MPC-HC, and PotPlayer — designed for a smoot
 
 ## ✨ Features
 
-- 🎥 Smooth and high-quality video playback  
-- 🎛️ Clean, modern, and distraction-free interface  
-- ⏯️ Full playback controls: play, pause, seek, volume, and speed  
-- 📂 Easy file opening and playlist support  
-- 🌙 Elegant dark cinematic design  
-- ⚡ Lightweight and fast, built with Rust + Tauri  
-- 🪟 Designed for a smooth Windows desktop experience  
+- Try it yourself ; u will not feel regret after using it 
 
 ---
 
