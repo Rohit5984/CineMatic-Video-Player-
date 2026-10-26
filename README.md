@@ -89,6 +89,16 @@ Please report bugs and feature requests through [GitHub Issues](https://github.c
 
 This project is licensed under the [MIT License](LICENSE).
 
-## 📬 Support
+## 📬 Support & Feedback
+
+For support, feedback, bug reports, or feature requests, feel free to comment on any of my recent LinkedIn posts. I actively respond to comments and will address reported issues in upcoming updates.
+
+👤 **Developer:** [Rohit Mandal](https://www.linkedin.com/in/rohit-mandal-6336923b1/)
+
+- Found a bug? Comment on a recent post with details.
+- Want a new feature? Share your suggestion—I’m open to improvements.
+- Need help using the player? Ask in the comments and I’ll assist.
+
+I am committed to continuously improving **Cinematic Video Player** and resolving user-reported issues in future releases.
 
 I
