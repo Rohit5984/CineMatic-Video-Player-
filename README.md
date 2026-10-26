@@ -24,11 +24,7 @@ A lightweight alternative to VLC, MPC-HC, and PotPlayer — designed for a smoot
 
 <div align="center">
 
-<img src="assets/Cinematic" width="90%" alt="Cinematic Video Player interface" />
-
-<br/>
-
-<img src="assets/screenshot-2.png" width="90%" alt="Cinematic Video Player playback controls" />
+<img src="assets/Cinematic.png" width="90%" alt="Cinematic Video Player interface" />
 
 </div>
 
