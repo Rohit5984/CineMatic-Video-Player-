@@ -61,7 +61,7 @@ Go to the [Releases](https://github.com/Rohit5984/CineMatic-Video-Player-/releas
 ## 💡 Have an Idea?
 
 Have a feature request or found a bug?  
-Feel free to share your ideas and feedback on [LinkedIn](https://lnkd.in/p/gJVqHE3H) — I'd love to hear from you and will consider adding useful features and fixing reported issues.
+Feel free to share your ideas and feedback on [LinkedIn](https://www.linkedin.com/in/rohit-mandal-6336923b1/) — I'd love to hear from you and will consider adding useful features and fixing reported issues.
 
 ---
 
