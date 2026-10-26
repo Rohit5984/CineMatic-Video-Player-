@@ -1,104 +1,108 @@
+<div align="center">
+
 # 🎬 Cinematic Video Player
 
-**Cinematic Video Player** is a modern video player designed to deliver a smooth, immersive viewing experience with an elegant interface and powerful playback controls.
+**A modern, fast, and elegant video player built with Rust + Tauri.**
 
-<!-- Replace with a screenshot or demo GIF -->
-<!-- ![Cinematic Video Player](docs/screenshot.png) -->
+A lightweight alternative to VLC, MPC-HC, and PotPlayer — designed for a smooth and immersive viewing experience.
+
+<img src="https://img.shields.io/badge/Built_with-Rust_%2B_Tauri-FF4E8E?style=for-the-badge&labelColor=1a1a2e" alt="Rust + Tauri" />
+<img src="https://img.shields.io/badge/License-MIT-00C6FF?style=for-the-badge&labelColor=1a1a2e" alt="MIT License" />
+<img src="https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&labelColor=1a1a2e" alt="Windows" />
+
+<br/>
+
+[![Download](https://img.shields.io/badge/⬇️_Download_Latest_Release-00C6FF?style=for-the-badge&logo=github&labelColor=1a1a2e)](https://github.com/your-username/cinematic-video-player/releases)
+
+[![Report Issue](https://img.shields.io/badge/🐛_Report_Issue-FF5555?style=for-the-badge&logo=github&labelColor=1a1a2e)](https://github.com/your-username/cinematic-video-player/issues)
+
+</div>
+
+---
+
+## 🖼️ Screenshots
+
+<div align="center">
+
+<img src="assets/screenshot-1.png" width="90%" alt="Cinematic Video Player interface" />
+
+<br/>
+
+<img src="assets/screenshot-2.png" width="90%" alt="Cinematic Video Player playback controls" />
+
+</div>
+
+---
 
 ## ✨ Features
 
-- Play local video files with smooth, responsive controls
-- Support for common video and audio formats
-- Fullscreen and mini-player modes
-- Playback speed control
-- Volume, seek, and subtitle controls
-- Clean, cinematic user interface
-- Keyboard shortcuts for quick navigation
-- [Add more features, such as playlists, themes, streaming support, etc.]
+- 🎥 Smooth and high-quality video playback  
+- 🎛️ Clean, modern, and distraction-free interface  
+- ⏯️ Full playback controls: play, pause, seek, volume, and speed  
+- 📂 Easy file opening and playlist support  
+- 🌙 Elegant dark cinematic design  
+- ⚡ Lightweight and fast, built with Rust + Tauri  
+- 🪟 Designed for a smooth Windows desktop experience  
+
+---
 
 ## 🚀 Getting Started
 
-### Prerequisites
+### Download
 
-Make sure you have the following installed:
+Go to the [Releases](https://github.com/your-username/cinematic-video-player/releases) page and download the latest version for Windows.
 
-- [Required runtime, e.g., Node.js 18+ / Python 3.10+]
-- [Required dependencies, if any]
+### Run from source
 
-### Installation
-
-1. Clone the repository:
+Make sure you have [Rust](https://www.rust-lang.org/) and [Node.js](https://nodejs.org/) installed.
 
 ```bash
 git clone [https://github.com/your-username/cinematic-video-player.git](https://github.com/your-username/cinematic-video-player.git)
 cd cinematic-video-player
-```
-
-2. Install dependencies:
-
-```bash
 npm install
+npm run tauri dev
 ```
 
-> Use `pip install -r requirements.txt`, `flutter pub get`, or the correct command for your stack.
-
-3. Start the application:
+### Build for production
 
 ```bash
-npm start
+npm run tauri build
 ```
 
-## 🎥 Usage
-
-1. Launch **Cinematic Video Player**.
-2. Click **Open Video** or drag and drop a video file into the app.
-3. Use the playback controls to play, pause, seek, adjust volume, or enable fullscreen.
-
-### Keyboard Shortcuts
-
-| Action | Shortcut |
-|---|---|
-| Play / Pause | `Space` |
-| Seek forward | `→` |
-| Seek backward | `←` |
-| Volume up | `↑` |
-| Volume down | `↓` |
-| Fullscreen | `F` |
-| Mute | `M` |
+---
 
 ## 🛠️ Tech Stack
 
-- [Language / framework, e.g., Rust+tauri]
-- [Video library, e.g., FFmpeg, Video.js, HTML5 Video]
-- [UI library, if applicable]
+| Technology | Purpose |
+|---|---|
+| Rust | Backend, performance, and system-level logic |
+| Tauri | Lightweight desktop application framework |
+| HTML / CSS / JavaScript | Modern user interface |
 
+---
 
 ## 🤝 Contributing
 
-Contributions are welcome!
+Bug reports, feature ideas, and pull requests are welcome.
 
-1. Fork the repository
-2. Create a new branch: `git checkout -b feature/your-feature`
-3. Commit your changes: `git commit -m "Add your feature"`
-4. Push to the branch: `git push origin feature/your-feature`
-5. Open a Pull Request
+Please report bugs or suggest new features through [GitHub Issues](https://github.com/your-username/cinematic-video-player/issues).
 
-Please report bugs and feature requests through [GitHub Issues](https://github.com/your-username/cinematic-video-player/issues).
+---
+
+## ⭐ Support the Project
+
+If Cinematic Video Player is useful to you, giving it a ⭐ helps more people discover the project and supports future improvements.
+
+---
 
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
 
-## 📬 Support & Feedback
+---
 
-For support, feedback, bug reports, or feature requests, feel free to comment on any of my recent LinkedIn posts. I actively respond to comments and will address reported issues in upcoming updates.
+<div align="center">
 
-👤 **Developer:** [Rohit Mandal](https://www.linkedin.com/in/rohit-mandal-6336923b1/)
+**Cinematic Video Player** — *A modern way to watch.*
 
-- Found a bug? Comment on a recent post with details.
-- Want a new feature? Share your suggestion—I’m open to improvements.
-- Need help using the player? Ask in the comments and I’ll assist.
-
-I am committed to continuously improving **Cinematic Video Player** and resolving user-reported issues in future releases.
-
-I
+</div>
