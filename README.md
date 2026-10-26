@@ -40,26 +40,7 @@ A lightweight alternative to VLC, MPC-HC, and PotPlayer — designed for a smoot
 
 ### Download
 
-Go to the [Releases](https://github.com/your-username/cinematic-video-player/releases) page and download the latest version for Windows.
-
-### Run from source
-
-Make sure you have [Rust](https://www.rust-lang.org/) and [Node.js](https://nodejs.org/) installed.
-
-```bash
-git clone [https://github.com/your-username/cinematic-video-player.git](https://github.com/your-username/cinematic-video-player.git)
-cd cinematic-video-player
-npm install
-npm run tauri dev
-```
-
-### Build for production
-
-```bash
-npm run tauri build
-```
-
----
+Go to the [Releases](https://github.com/Rohit5984/CineMatic-Video-Player-/releases/tag/1.0.0) page and download the latest version for Windows.
 
 ## 🛠️ Tech Stack
 
